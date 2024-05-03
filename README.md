@@ -4,15 +4,6 @@
 [![Download PDF](https://img.shields.io/badge/Download-PDF-blue)](/JimmyVela-Resume.pdf)
 
 
-
-<script>
-document.querySelector('.btn').addEventListener('click', function() {
-    window.open('path/to/your/pdf/file.pdf', '_blank');
-});
-</script>
-
-
-
 # 💫 About Me:
 👨🏻‍💻 Full Stack Software Developer <br>👨🏻‍🎓 Received my Full Stack Web Development at SMU <br><br>I have a passion in learning new technologies and using them to create useful tools or improving and innovating existing ideas.  <br><br> Hobbies: <br>     - Outdoor activities hiking, running sports (I try to be as active as possible 🌝)<br>     - Dancing and music<br>     - Working out <br>     - nerd stuff 🤓<br><br>Lets connect, ask me anything and maybe colab together on a project.<br>Email: jimmyvela06@gmail.com 
 
