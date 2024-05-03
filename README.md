@@ -1,6 +1,7 @@
 # Hi there, I am Jimmy Vela
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-vela/) 
 [![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:test@test.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio%202.0-black.svg)](https://jimmyvela-portfolio.com/)
 
 # 💫 About Me:
 👨🏻‍💻 Full Stack Software Developer <br>👨🏻‍🎓 Received my Full Stack Web Development at SMU <br><br>I have a passion in learning new technologies and using them to create useful tools or improving and innovating existing ideas.  <br><br> Hobbies: <br>     - Outdoor activities hiking, running sports (I try to be as active as possible 🌝)<br>     - Dancing and music<br>     - Working out <br>     - nerd stuff 🤓<br><br>Lets connect, ask me anything and maybe colab together on a project.<br>Email: jimmyvela06@gmail.com 
