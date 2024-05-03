@@ -1,6 +1,6 @@
 # Hi there, I am Jimmy Vela
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-vela/) 
-[![Email Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=blue&labelColor=white&color=blue)](jimmyvela06@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=blue&labelColor=white&color=blue)](mailto:jimmyvela06@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO%20-black?logo=rocket&logoWidth=20)](https://jimmyvela-portfolio.com/)
 
 # 💫 About Me:
